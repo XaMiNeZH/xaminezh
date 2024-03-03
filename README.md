@@ -18,14 +18,7 @@ Hey there! I'm a first-year Computer Science student with a passion for debloati
 ### Learning
 - Currently diving into **algorithms** and **Python** as part of my Computer Science curriculum.
 - Exploring more advanced topics on Windows and progressing from basics to aiming for an advanced level on Linux.
-- Currently studying **Math Sup - premier semestre:**
-    - Logique et algèbre
-    - Analyse
-    - Algèbre et arithmétique
-- **In Math Sup - second semestre:**
-    - Compléments d'analyse
-    - Algèbre linéaire et géométrie
-    - Probabilités
+- Currently studying Maths/CompSci lecturer (incidentally, a CompSci student) **Math Sup - premier semestre:** & **In Math Sup - second semestre:**
 
 ### Tools & Environment
 - I primarily use **Jupyter Notebook** and **Visual Studio Code** for coding, especially for my university projects.
