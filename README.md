@@ -3,7 +3,7 @@
 ![SHINMON](https://github.com/XaMiNeZH/xaminezh/assets/83660369/ca7f6663-5cf1-4418-baeb-5537f8c67dc7)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaminezh&label=Profile%20views&color=0e75b6&style=flat" alt="xaminezh" /> </p>
-### About Me
+About Me
 
 Hey there! I'm a first-year Computer Science student with a passion for debloating, customizing, and debugging both Windows and Linux systems. I thoroughly enjoy discovering open-source projects of UI elements like Windows UI, Discord UI, and various web browsers.
 
