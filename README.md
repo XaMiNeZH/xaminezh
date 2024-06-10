@@ -1,6 +1,7 @@
 ### Welcome to XaMiNeZH's GitHub Profile! 👋
 
-![SHINMON](https://github.com/XaMiNeZH/xaminezh/assets/83660369/ca7f6663-5cf1-4418-baeb-5537f8c67dc7)
+![header](https://github.com/XaMiNeZH/xaminezh/assets/83660369/93f27e5d-ff69-46cb-b78f-1584ca183925)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaminezh&label=Profile%20views&color=0e75b6&style=flat" alt="xaminezh" /> </p>
 About Me
