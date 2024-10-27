@@ -1,7 +1,5 @@
 ### Welcome to XaMiNeZH's GitHub Profile! 👋
 
-![header](https://github.com/XaMiNeZH/xaminezh/assets/83660369/93f27e5d-ff69-46cb-b78f-1584ca183925)
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaminezh&label=Profile%20views&color=0e75b6&style=flat" alt="xaminezh" /> </p>
 About Me
